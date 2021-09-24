@@ -49,5 +49,11 @@ module.exports = {
       useLangKeyLayout: false,
     },
   },
+    {
+      resolve: `gatsby-plugin-gatsby-cloud`,
+      options: {
+        // as your choice
+      },
+  },
 ],
 }
